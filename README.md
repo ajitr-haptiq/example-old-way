@@ -1,2 +1,2 @@
 # example-old-way
-Example to show old default branch name
+Example repo to show old default branch name
